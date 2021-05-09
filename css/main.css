@@ -34,17 +34,6 @@ header h1 {
     padding: 10px;
 }
 
-.channels-list .list-button {
-    display: none;
-    position: absolute;
-    top: 0;
-    right: -29px;
-    color: #fff;
-    background-color: #9e9e9e;
-    padding: 5px 10px;
-    border-radius: 0 50% 50% 0;
-}
-
 .channels-list h2 {
     margin-bottom: 5px;
     border-bottom: 1px solid #9e9e9e;
